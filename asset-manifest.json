@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Lets-Grow-More-Second-Task/static/css/main.1ada05c3.css",
-    "main.js": "/Lets-Grow-More-Second-Task/static/js/main.89c80940.js",
-    "static/js/787.ae62cc68.chunk.js": "/Lets-Grow-More-Second-Task/static/js/787.ae62cc68.chunk.js",
-    "index.html": "/Lets-Grow-More-Second-Task/index.html",
-    "main.1ada05c3.css.map": "/Lets-Grow-More-Second-Task/static/css/main.1ada05c3.css.map",
-    "main.89c80940.js.map": "/Lets-Grow-More-Second-Task/static/js/main.89c80940.js.map",
-    "787.ae62cc68.chunk.js.map": "/Lets-Grow-More-Second-Task/static/js/787.ae62cc68.chunk.js.map"
+    "main.css": "/LGM-Forth-Task/static/css/main.1ada05c3.css",
+    "main.js": "/LGM-Forth-Task/static/js/main.1e894876.js",
+    "static/js/787.03793d8a.chunk.js": "/LGM-Forth-Task/static/js/787.03793d8a.chunk.js",
+    "index.html": "/LGM-Forth-Task/index.html",
+    "main.1ada05c3.css.map": "/LGM-Forth-Task/static/css/main.1ada05c3.css.map",
+    "main.1e894876.js.map": "/LGM-Forth-Task/static/js/main.1e894876.js.map",
+    "787.03793d8a.chunk.js.map": "/LGM-Forth-Task/static/js/787.03793d8a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1ada05c3.css",
-    "static/js/main.89c80940.js"
+    "static/js/main.1e894876.js"
   ]
 }
